@@ -1,0 +1,11 @@
+/home/snyderjosephd/nss/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists
+/home/snyderjosephd/nss/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.deps.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.runtimeconfig.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.runtimeconfig.dev.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.pdb
+/home/snyderjosephd/nss/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.csprojAssemblyReference.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.AssemblyInfoInputs.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.AssemblyInfo.cs
+/home/snyderjosephd/nss/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.pdb
